@@ -1,0 +1,61 @@
+.main {
+  width: 100%;
+  height: 100vh;
+}
+
+.main * {
+  padding: 0;
+  margin: 0;
+}
+
+.nb {
+  border-bottom: 1.5px solid black;
+}
+
+.imgk {
+  font-size: 10px;
+  font-weight: 300;
+}
+
+.tkt {
+  font-size: 10px;
+}
+
+.cl1 {
+  border: 1px solid rgba(68, 123, 231, 0.5) !important;
+  border-bottom: 10px solid rgba(68, 123, 231, 0.5) !important;
+  border-radius: 6px;
+}
+
+.cl2 {
+  border: 1px solid rgba(68, 123, 231, 0.5) !important;
+  border-bottom: 10px solid rgba(68, 123, 231, 0.5) !important;
+  border-radius: 6px;
+}
+
+.i {
+  font-size: 9px;
+  font-weight: 300;
+}
+
+.bgr {
+  background-color: rgba(68, 123, 231, 0.8) !important;
+  z-index: 999;
+}
+
+@media (min-width: 1200px) {
+  .cl1 {
+    margin-left: 48px;
+  }
+}
+
+.tk {
+  font-size: 10px;
+}
+
+@media (min-width: 992px) {
+  .aa {
+    margin-left: 48px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
